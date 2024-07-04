@@ -1,1 +1,1 @@
-To play the game click the link: game.rujaltamrakar.com.np
+<p>To play the game click the link:</p><a herf="game.rujaltamrakar.com.np"></a>
